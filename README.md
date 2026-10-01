@@ -45,7 +45,7 @@ For each paper, the corresponding folder will contain, where applicable:
 - model parameters and configuration files;
 - additional documentation required to reproduce the reported results.
 
-Raw market data are obtained from the original public data providers whenever possible. For studies involving the Iberian and Portuguese electricity markets, these sources include **REN** and **OMIE**. The repository therefore focuses primarily on the processed datasets, modelling code, and research workflows developed by the authors.
+Raw market data are obtained from the original public data providers whenever possible. The repository therefore focuses primarily on the processed datasets, modelling code, and research workflows developed by the authors.
 
 Some datasets may also be accessible through the **Samarao-Lab API**, which provides structured access to market and research data.
 
